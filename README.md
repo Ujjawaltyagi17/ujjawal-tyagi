@@ -1,2 +1,3 @@
 # ujjawal-tyagi
-this is my first git repository
+This is my first Git Repository
+Author - Ujjawal Tyagi
